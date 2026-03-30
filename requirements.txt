@@ -1,4 +1,3 @@
-python-dotenv
 streamlit
 streamlit-lightweight-charts
 websocket-client
