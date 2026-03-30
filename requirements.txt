@@ -3,7 +3,6 @@ streamlit-lightweight-charts
 websocket-client
 pandas
 pandas_ta
-numpy
 plotly
 deriv-api
 python-dotenv
