@@ -4,6 +4,6 @@ websocket-client
 pandas
 pandas_ta
 numpy
-tensorflow
-scikit-learn
 plotly
+deriv-api
+python-dotenv
